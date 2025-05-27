@@ -1,4 +1,6 @@
 name: Create Release and Upload index.json
+permissions:
+  contents: write
 
 on:
   push:
